@@ -22,4 +22,4 @@ Clone or download this repository, then add the project folder in Unity Hub. Ope
 
 ## License
 
-See [LICENSE](LICENSE).
+Project license: [MIT](LICENSE).
